@@ -1,8 +1,13 @@
 # App Super Ninja
 
-Um app super ninja que faz coisas supimpásticas!
+* Um app super ninja que faz coisas supimpásticas!
 
-## Para instalar, digite: 
+## Para instalar, digite:
+
+* comandos aqui 
 
 
 ## Para executar, digite:
+
+* comandos aqui 
+
